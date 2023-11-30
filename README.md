@@ -4,4 +4,4 @@
 - Email: rahmankamal03@gmail.com
 - Id Dicoding: amarrk
 
-# This Repo created for deploying Streamlit purpose
+# This Repo created for deploying Streamlit
