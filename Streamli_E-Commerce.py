@@ -5,9 +5,9 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load data
-customer_summary = pd.read_csv('F:\Amar\Career\Personal\Data\E-Commerce Public Dataset\customer_summary.csv')
-product_summary = pd.read_csv('F:\Amar\Career\Personal\Data\E-Commerce Public Dataset\products_summary.csv')
-payment_summary = pd.read_csv('F:\Amar\Career\Personal\Data\E-Commerce Public Dataset\payment_summary.csv')
+customer_summary = pd.read_csv('https://raw.githubusercontent.com/Chagiyaa/IDCamp2023/main/customer_summary.csv')
+product_summary = pd.read_csv('https://raw.githubusercontent.com/Chagiyaa/IDCamp2023/main/products_summary.csv')
+payment_summary = pd.read_csv('https://raw.githubusercontent.com/Chagiyaa/IDCamp2023/payment_summary.csv')
 
 # First Page
 def first_page():
