@@ -5,6 +5,5 @@
 - Id Dicoding: amarrk
 
 # This Repo created for deploying Streamlit
-- Currently failed to deploy the dashboard in community streamlit there is error idk how to solve
-- only works in local for now
-- streamlit run Streamlit.py
+here deployed dashboard in streamlit community
+https://idcamp2023-amar.streamlit.app/
